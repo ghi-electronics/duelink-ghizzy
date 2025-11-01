@@ -1,1 +1,1 @@
-# duelink-ghizzy
+# DUELink Ghizzy readme
