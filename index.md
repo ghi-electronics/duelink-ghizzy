@@ -1,8 +1,8 @@
 # DUELink Holiday Tree
 
-This page includes many demo programs/patterns that you can load onto your DUELink [Ghizzy](https://www.duelink.com/docs/products/spshizzy-d)
+This page includes many demo programs/patterns that you can load onto your DUELink [Ghizzy](https://www.duelink.com/docs/products/spghizzy-d)
 
-![Ghizzy](./img/spshizzy-d-1.png)
+![Ghizzy](./img/spghizzy-d-1.png)
 
 To load any of the demos, you need these steps:
 1. Plug in Ghizzy directly into USB. No USB cable is included but you can use a USB cable extensions if desired.
