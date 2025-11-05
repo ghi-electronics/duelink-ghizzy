@@ -2,7 +2,7 @@
 
 # DUELink Ghizzy
 
-This is a `Getting Started` page for `DUELink Holiday Tree`.
+This is a `Getting Started` page for `Ghizzy`.
 
 ![Ghizzy](./img/spghizzy-d-1.png)
 
@@ -18,6 +18,8 @@ This page is a `Getting Started` page for `DUELink Ghizzy`. It includes many dem
 
 **Note:** It is easier to have 2 browser windows open simultaneously to drag the library and images. Another option is to save the image/library locally onto your machine then drag them in the browser later!
 
+
+![Ghizzy eyes](./img/ghizzy-eyes.gif)
 
 
 ---
@@ -75,4 +77,4 @@ Curious on how Ghizzy came about? Watch the videos!
 
 Video | Description
 ---|---
-[![Designing the tree](https://img.youtube.com/vi/D4073veneWI/hqdefault.jpg)](https://www.youtube.com/watch?v=D4073veneWI) | Ghizzy started as a swag item, called John Due!
+[![Designing Ghizzy](https://img.youtube.com/vi/D4073veneWI/hqdefault.jpg)](https://www.youtube.com/watch?v=D4073veneWI) | Ghizzy started as a swag item, called John Due!
