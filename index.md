@@ -1,71 +1,75 @@
-![Logo](./img/duelinklogo.png)
+<p style="text-align:center;">![Logo](./img/duelinklogo.png)</p>
 
 # DUELink Ghizzy
 
-This is a `Getting Started` page for `Ghizzy`.
-
 ![Ghizzy](./img/spghizzy-d-1.png)
 
-This page is a `Getting Started` page for `DUELink Ghizzy`. It includes many demo programs/patterns that you can load onto it. You can see the full product details on the product page on the DUELink website [here](https://www.duelink.com/docs/products/spghizzy-d). To load any of the demos, or to make your own, you need these steps:
+This page is a `Getting Started` page for `DUELink Ghizzy`. The full product details are [here](https://www.duelink.com/docs/products/spghizzy-d) on the main DUELink website. 
 
-1. Plug Ghizzy into your PC USB port. You can optionally use a USB port extender if you need it to connect using a cable (not included).
-2. Go to [https://microblocks.fun/run/microblocks.html](https://microblocks.fun/run/microblocks.html). You will need to use `Edge` or `Chrome` Internet browsers.
-3. Click `Connect` button on the top right corner. Then select the `USB` option.
-4. You should have one option only but if more than one then select the `DUELink` device. While not likely to happen, if you do not see a `DUELink` device then you need to reload the MicroBlocks firmware. This is explained at the bottom of this page.
-5. The connect button you clicked earlier changes to a `DUELink` next to a green connect icon.
-6. Click and drag [This Ghizzy Library Link](https://www.duelink.com/code/driver/microblocks/ghizzy.ubl) into the middle of the MicroBlocks page. If not sure how to drag a link, click the link to save the library on your PC then drag the saved file into the MicroBlocks page.
-7. You can now drag any of the images (Example Blocks) below into the IDE to try them.
+<p style="text-align:center;">
+Don't have a DUELink Ghizzy yet? Get yours today!<br>
+<a href="https://www.amazon.com/dp/B0FY72K8NW?maas=maas_adg_AD869D7B02A65ED7E59E323E2386638C_afap_abs&ref_=aa_maas&tag=maas" target="_blank"><img src="./img/amazon-btn.png" alt="Amazon button" width="200"></a>
+</p>
 
-**Note:** It is easier to have 2 browser windows open simultaneously to drag the library and images. Another option is to save the image/library locally onto your machine then drag them in the browser later!
 
+Plug your Ghizzy using the included USB cable and enjoy the preloaded demo. Then you can try any of the examples below as is, or **change them** any way you like! 
+
+To load a project: **Click** ➡ **Connect** ➡ **Run**!
+
+1. **Click** on one of the project links below to load it into MicroBlocks. We explain what MicroBlocks is later on this page.
+2. Click **Connect** on the top right corner. Then select the `USB` option. From the new window, select `DUELink`. 
+    2. While not likely to happen, if you do not see a `DUELink` device, then you need to reload the MicroBlocks firmware. This is explained later on this page.
+3. Click the **Run** triangle ▶ and enjoy! 🎉Congratulations, you are now a coder!
 
 ![Ghizzy eyes](./img/ghizzy-eyes.gif)
 
+<table>
+  <tr>
+    <th>📽 Video</th>
+    <th>Project Link</th>
+    <th>Functionality</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=GflXmnGSey4" target="_blank"><img src="https://img.youtube.com/vi/GflXmnGSey4/1.jpg" alt="Default Project Demo"></a></td>
+    <td><a href="https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-holiday-tree/refs/heads/main/code/demo.ubp" target="_blank">Default Project Demo</a></td>
+    <td>This is the default demo. Press the LDR button to make Ghizzy angry!</td>
+  </tr>
+</table>
 
----
-
-## Example Blocks
-
-Demos (Drag into MicroBlocks) | Functionality
---- | ---
-<img src="./code/demo.png" alt="demo" height="250"> | This is default demo. Press the LDR button to make Ghizzy angry!
-
-
-Are you ready to make your own demos? The demos work as is but you can modify the blocks to change Ghizzy's behavior. Congratulations, you are now a coder!
 
 ---
 
 ## What is MicroBlocks?
 
-If you want to learn coding, the easy way, MicroBlocks is a blocks language that makes it easy for beginners (9 years to adults) to program DUELink boards. A huge benefit of MicroBlocks is that it is live and interactive: Users can click commands to see what they do and they can test their scripts as they work.
+If you want to learn coding the easy way, MicroBlocks is a block-based language that is easy for beginners (9 years to adults) to program DUELink boards. A huge benefit of MicroBlocks is that it is live and interactive; users can click commands to see what they do and they can test their scripts as they work.
 
 ![MicroBlocks](./img/microblocks-sample.png)
 
-Learn more about using [MicroBlocks support](https://www.duelink.com/docs/language/microblocks) on DUELink products.
+Learn more about DUELink's [MicroBlocks support](https://www.duelink.com/docs/language/microblocks).
 
 ---
 
 ## Connect with us!
 
-Ghizzy is possible because of our DUELink technology. But what is DUELink? Click [here](https://www.duelink.com/docs/what-is) to learn more.
+The Holiday Tree is possible because of our DUELink technology. But what is DUELink? Click [here](https://www.duelink.com/docs/what-is) to learn more.
 
 Join our newsletter and social channels [here](https://www.duelink.com/news).
 
-We are also on the DUELink section on [our forums](https://forums.ghielectronics.com/c/duelink/31)
+We are also on the DUELink section on [our forums](https://forums.ghielectronics.com/c/duelink/31).
 
 ---
 
 ## Reload MicroBlocks Firmware
 
-If MicroBlocks software is not seeing your device, you need to follow these steps:
+In the unlikely event that MicroBlocks software is not seeing your device, then you need to follow these steps:
 
-1. There are 2 buttons found on the board, Reset (RST) and Loader (LDR). Locate the buttons.
-2. Press and hold the LDR button while pressing and releasing reset. Note how you need to keep holding the LDR button pressed while pressing and releasing RST.
-2. Go to https://console.duelink.com/ and click `Firmware` on the top menu.
-3. Click `Connect` button. You should see `DFU in FS Mode - Paired`. Select it.
+1. There are 2 buttons found on the board, Loader (LDR) and Reset (RST). Locate the buttons.
+2. Press and hold the LDR button while pressing and releasing RST button. Note how you need to keep holding the LDR button pressed while pressing and releasing the RST button.
+2. Go to [console.duelink.com](https://console.duelink.com/) and click `Firmware` on the top menu.
+3. Click `Connect` button. You should see `DFU in FS Mode - Paired`. Select it and click `Connect`.
 4. Select `MicroBlocks` from the `Firmware` menu.
-5. Click `Load` button.
-5. Click `Close`
+5. Click `Load` button. You can optionally click `Erase All` first for a complete fresh start!
+5. Click `Close`.
 
 The board is now loaded with MicroBlocks firmware, which is what the MicroBlocks software uses to communicate with the board.
 
@@ -73,8 +77,8 @@ The board is now loaded with MicroBlocks firmware, which is what the MicroBlocks
 
 ## The "Making of" Videos
 
-Curious on how Ghizzy came about? Watch the videos!
+Curious on how Ghizzy came about?
 
 Video | Description
 ---|---
-[![Designing Ghizzy](https://img.youtube.com/vi/D4073veneWI/hqdefault.jpg)](https://www.youtube.com/watch?v=D4073veneWI) | Ghizzy started as a swag item, called John Due!
+[![Designing Ghizzy](https://img.youtube.com/vi/D4073veneWI/hqdefault.jpg)](https://www.youtube.com/watch?v=D4073veneWI) | Ghizzy started as a swag item, was called John Due!
