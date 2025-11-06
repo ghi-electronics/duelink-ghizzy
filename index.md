@@ -1,4 +1,6 @@
-<p style="text-align:center;">![Logo](./img/duelinklogo.png)</p>
+<p style="text-align:center;">
+![Logo](./img/duelinklogo.png)
+</p>
 
 # DUELink Ghizzy
 
