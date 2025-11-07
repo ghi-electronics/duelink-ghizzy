@@ -3,9 +3,9 @@ author unknown
 version 1 0 
 description ''
 
-script 133 74 {
+script 133 66 {
 whenStarted
-'ct laser' 500 500 5 3
+'ct laser' 500 3000 150 3
 forever {
   due_ghizzy_set_mouth true true true
   due_ghizzy_set_ear true false

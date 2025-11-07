@@ -11,8 +11,7 @@ Don't have a DUELink Ghizzy yet? Get yours today!<br>
 <a href="https://www.amazon.com/dp/B0FY74LL2H" target="_blank"><img src="./img/amazon-btn.png" alt="Amazon button" width="200"></a>
 </p>
 
-
-Plug your Ghizzy using the included USB cable and enjoy the preloaded demo. You can use anything USB to power it up: PC, phone charger, or power bank. Then you can try any of the examples below as is, or **change them** any way you like! 
+Power up Ghizzy using a PC, phone charger, or power bank and enjoy the preloaded demo. Then use any computer to load one of the demo projects below as is, or **change it** any way you like!
 
 To load a project: **Click** ➡ **Connect** ➡ **Run**!
 
