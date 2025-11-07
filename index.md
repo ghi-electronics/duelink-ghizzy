@@ -4,7 +4,7 @@
 
 ![Ghizzy](./img/spghizzy-d-1.png)
 
-This page is a `Getting Started` page for `DUELink Ghizzy`. The full product details are [here](https://www.duelink.com/docs/products/spghizzy-d) on the main DUELink website. 
+This page is a `Getting Started` page for `DUELink Ghizzy`. The full product details are [here](https://www.duelink.com/docs/products/spghizzy-d) on the main DUELink website. Are you an educator? See how DUELink can help you [here](https://www.duelink.com/docs/educators).
 
 <p style="text-align:center;">
 Don't have a DUELink Ghizzy yet? Get yours today!<br>
@@ -31,7 +31,7 @@ To load a project: **Click** ➡ **Connect** ➡ **Run**!
   </tr>
   <tr>
     <td><a href="https://www.youtube.com/watch?v=GflXmnGSey4" target="_blank"><img src="https://img.youtube.com/vi/GflXmnGSey4/1.jpg" alt="Default Project Demo"></a></td>
-    <td><a href="https://microblocks.fun/run-pilot/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-ghizzy/refs/heads/main/code/demo.ubp" target="_blank">Default Project Demo</a></td>
+    <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-ghizzy/refs/heads/main/code/demo.ubp" target="_blank">Default Project Demo</a></td>
     <td>This is the default demo. Press the LDR button to make Ghizzy angry!</td>
   </tr>
 </table>
