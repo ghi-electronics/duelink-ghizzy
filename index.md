@@ -48,6 +48,11 @@ To load a project: **Click** ➡ **Connect** ➡ **Run**!
     <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-ghizzy/refs/heads/main/code/color-selector.ubp" target="_blank">Hearing Test</a></td>
     <td>Push and hold the LDR button to sweep through a rising frequency. Release the button when you can't hear anything anymore. Ghizzy now will sound a beep for every 1KHz. So, for 4.3Khz, Ghizzy will beep 4 times. MicroBlocks also shows the actual frequency in Hz.</td>
   </tr>
+   <tr>
+    <td><a href="https://www.youtube.com/watch?v=GflXmnGSey4" target="_blank"><img src="https://img.youtube.com/vi/GflXmnGSey4/1.jpg" alt="Default Project Demo"></a></td>
+    <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-ghizzy/refs/heads/main/code/color-selector.ubp" target="_blank">Ready Set Go!</a></td>
+    <td>Ghizzy will start with notes for Read/Set/Go and then goes into a ticker that changes its time. BE ready with your finger on LDR button. As soon as you hear the raising frequency, push the button and look at your score on MicroBlocks. The lower the number the faster you are.</td>
+  </tr>
 </table>
 
 
