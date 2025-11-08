@@ -13,7 +13,7 @@ forever {
     startTone (1000 + (i * 20))
     waitMillis 5
   }
-  for i ('[data:range]' 100 1 1) {
+  for i ('[data:range]' 100 1) {
     due_ghizzy_set_left_eye i 0 0
     due_ghizzy_set_right_eye (100 - i) 0 0
     startTone (1000 + (i * 20))
