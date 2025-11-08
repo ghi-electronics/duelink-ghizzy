@@ -33,6 +33,11 @@ To load a project: **Click** ➡ **Connect** ➡ **Run**!
     <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-ghizzy/refs/heads/main/code/demo.ubp" target="_blank">Default Project Demo</a></td>
     <td>This is the default demo. Press the LDR button to make Ghizzy angry!</td>
   </tr>
+  <tr>
+    <td><a href="https://www.youtube.com/watch?v=GflXmnGSey4" target="_blank"><img src="https://img.youtube.com/vi/GflXmnGSey4/1.jpg" alt="Default Project Demo"></a></td>
+    <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-ghizzy/refs/heads/main/code/police.ubp" target="_blank">Default Project Demo</a></td>
+    <td>Ghizzy is policeman!</td>
+  </tr>
 </table>
 
 
