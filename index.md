@@ -41,8 +41,13 @@ To load a project: **Click** ➡ **Connect** ➡ **Run**!
    <tr>
     <td><a href="https://www.youtube.com/watch?v=GflXmnGSey4" target="_blank"><img src="https://img.youtube.com/vi/GflXmnGSey4/1.jpg" alt="Default Project Demo"></a></td>
     <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-ghizzy/refs/heads/main/code/color-selector.ubp" target="_blank">Color Selector</a></td>
-    <td>Push and hold the LDR button to cycle through Red, Green, and Blue. When you see the desired option release the button and wait for the beep. After the beep sound, Ghizzy will cycle through a range of that color channel. Once you see the color you like, press and hold until you hear sound, then release LDR. If MicroBlock can also show the selected color value, if is teh software is connected.</td>
+    <td>Push and hold the LDR button to cycle through Red, Green, and Blue. When you see the desired option release the button and wait for the beep. After the beep sound, Ghizzy will cycle through a range of that color channel. Once you see the color you like, press and hold until you hear sound, then release LDR. If MicroBlock can also show the selected color value, if is the software is connected.</td>
   </tr> 
+   <tr>
+    <td><a href="https://www.youtube.com/watch?v=GflXmnGSey4" target="_blank"><img src="https://img.youtube.com/vi/GflXmnGSey4/1.jpg" alt="Default Project Demo"></a></td>
+    <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-ghizzy/refs/heads/main/code/color-selector.ubp" target="_blank">Hearing Test</a></td>
+    <td>Push and hold the LDR button to sweep through a rising frequency. Release the button when you can't hear anything anymore. Ghizzy now will sound a beep for every 1KHz. So, for 4.3Khz, Ghizzy will beep 4 times. MicroBlocks also shows the actual frequency in Hz.</td>
+  </tr>
 </table>
 
 
