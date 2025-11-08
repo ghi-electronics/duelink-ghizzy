@@ -35,9 +35,14 @@ To load a project: **Click** ➡ **Connect** ➡ **Run**!
   </tr>
   <tr>
     <td><a href="https://www.youtube.com/watch?v=GflXmnGSey4" target="_blank"><img src="https://img.youtube.com/vi/GflXmnGSey4/1.jpg" alt="Default Project Demo"></a></td>
-    <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-ghizzy/refs/heads/main/code/police.ubp" target="_blank">Default Project Demo</a></td>
+    <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-ghizzy/refs/heads/main/code/police.ubp" target="_blank">Policeman</a></td>
     <td>Ghizzy is policeman!</td>
   </tr>
+   <tr>
+    <td><a href="https://www.youtube.com/watch?v=GflXmnGSey4" target="_blank"><img src="https://img.youtube.com/vi/GflXmnGSey4/1.jpg" alt="Default Project Demo"></a></td>
+    <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-ghizzy/refs/heads/main/code/color-selector.ubp" target="_blank">Color Selector</a></td>
+    <td>Push and hold the LDR button to cycle through Red, Green, and Blue. When you see the desired option release the button and wait for the beep. After the beep sound, Ghizzy will cycle through a range of that color channel. Once you see the color you like, press and hold until you hear sound, then release LDR. If MicroBlock can also show the selected color value, if is teh software is connected.</td>
+  </tr> 
 </table>
 
 
