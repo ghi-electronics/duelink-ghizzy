@@ -9,6 +9,9 @@ This page is a `Getting Started` page for `DUELink Ghizzy`. The full product det
 <p style="text-align:center;">
 Don't have a DUELink Ghizzy yet? Get yours today!<br>
 <a href="https://www.amazon.com/dp/B0FY74LL2H" target="_blank"><img src="./img/amazon-btn.png" alt="Amazon button" width="200"></a>
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D4073veneWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 Power up Ghizzy using a PC, phone charger, or power bank and enjoy the preloaded demo. Then use any computer to load one of the demo projects below as is, or **change it** any way you like!
