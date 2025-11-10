@@ -8,13 +8,21 @@ This page is a `Getting Started` page for `DUELink Ghizzy`. The full product det
 
 <p style="text-align:center;">
 Don't have a DUELink Ghizzy yet? Get yours today!<br>
-<a href="https://www.amazon.com/dp/B0FY74LL2H" target="_blank"><img src="./img/amazon-btn.png" alt="Amazon button" width="200"></a>
+<a href="https://www.amazon.com/dp/B0FY74LL2H?maas=maas_adg_1C09DAD2F5B13C09514E189AC8835CA2_afap_abs&ref_=aa_maas&tag=maas" target="_blank"><img src="./img/amazon-btn.png" alt="Amazon button" width="200"></a>
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D4073veneWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
-Power up Ghizzy using a PC, phone charger, or power bank and enjoy the preloaded demo. Then use any computer to load one of the demo projects below as is, or **change it** any way you like!
+Ensure that Ghizzy is facing the proper direction when plugging into the USB port as show below.
+
+![Ghizzy USB plugin](./img/usb-plugin.png)
+
+Power up Ghizzy using a PC, phone charger, or power bank and enjoy the preloaded demo. 
+
+![Ghizzy Power options](./img/power-options.png)
+
+Then use any computer to load one of the demo projects below as is, or **change it** any way you like!
 
 To load a project: **Click** ➡ **Connect** ➡ **Run**!
 
@@ -32,32 +40,32 @@ To load a project: **Click** ➡ **Connect** ➡ **Run**!
     <th>Functionality</th>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/watch?v=GflXmnGSey4" target="_blank"><img src="https://img.youtube.com/vi/GflXmnGSey4/1.jpg" alt="Default Project Demo"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=d8JvdWC7ZFA" target="_blank"><img src="https://img.youtube.com/vi/d8JvdWC7ZFA/1.jpg" alt="Default Project Demo"></a></td>
     <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-ghizzy/refs/heads/main/code/demo.ubp" target="_blank">Default Project Demo</a></td>
     <td>This is the default demo. Press the LDR button to make Ghizzy angry!</td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/watch?v=GflXmnGSey4" target="_blank"><img src="https://img.youtube.com/vi/GflXmnGSey4/1.jpg"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=H8U8kysmDkA" target="_blank"><img src="https://img.youtube.com/vi/H8U8kysmDkA/1.jpg"></a></td>
     <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-ghizzy/refs/heads/main/code/police.ubp" target="_blank">Policeman</a></td>
     <td>Ghizzy is policeman!</td>
   </tr>
    <tr>
-    <td><a href="https://www.youtube.com/watch?v=GflXmnGSey4" target="_blank"><img src="https://img.youtube.com/vi/GflXmnGSey4/1.jpg"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=iIY6V3Hw-ds" target="_blank"><img src="https://img.youtube.com/vi/iIY6V3Hw-ds/1.jpg"></a></td>
     <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-ghizzy/refs/heads/main/code/color-selector.ubp" target="_blank">Color Selector</a></td>
     <td>Push and hold the LDR button to cycle through Red, Green, and Blue. When you see the desired option release the button and wait for the beep. After the beep sound, Ghizzy will cycle through a range of that color channel. Once you see the color you like, press and hold until you hear sound, then release LDR. If MicroBlock can also show the selected color value, if is the software is connected.</td>
   </tr> 
    <tr>
-    <td><a href="https://www.youtube.com/watch?v=GflXmnGSey4" target="_blank"><img src="https://img.youtube.com/vi/GflXmnGSey4/1.jpg"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=O7_PxzcBt7s" target="_blank"><img src="https://img.youtube.com/vi/O7_PxzcBt7s/1.jpg"></a></td>
     <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-ghizzy/refs/heads/main/code/hearing-test.ubp" target="_blank">Hearing Test</a></td>
     <td>Push and hold the LDR button to sweep through a rising frequency. Release the button when you can't hear anything anymore. Ghizzy now will sound a beep for every 1KHz. So, for 4.3Khz, Ghizzy will beep 4 times. MicroBlocks also shows the actual frequency in Hz.</td>
   </tr>
    <tr>
-    <td><a href="https://www.youtube.com/watch?v=GflXmnGSey4" target="_blank"><img src="https://img.youtube.com/vi/GflXmnGSey4/1.jpg"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=ocil5kOvge0" target="_blank"><img src="https://img.youtube.com/vi/ocil5kOvge0/1.jpg"></a></td>
     <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-ghizzy/refs/heads/main/code/reaction.ubp" target="_blank">Ready Set Go!</a></td>
     <td>Ghizzy will start with notes for Read/Set/Go and then goes into a ticker that changes its time. BE ready with your finger on LDR button. As soon as you hear the raising frequency, push the button and look at your score on MicroBlocks. The lower the number the faster you are.</td>
   </tr>
    <tr>
-    <td><a href="https://www.youtube.com/watch?v=GflXmnGSey4" target="_blank"><img src="https://img.youtube.com/vi/GflXmnGSey4/1.jpg"></a></td>
+    <td><a href="https://www.youtube.com/watch?v=SRl_iSj7iYo" target="_blank"><img src="https://img.youtube.com/vi/SRl_iSj7iYo/1.jpg"></a></td>
     <td><a href="https://microblocks.fun/run/microblocks.html?project=https://raw.githubusercontent.com/ghi-electronics/duelink-ghizzy/refs/heads/main/code/twinkle.ubp" target="_blank">Twinkle!</a></td>
     <td>Twinkle Twinkle, the Ghizzy way!</td>
   </tr>
