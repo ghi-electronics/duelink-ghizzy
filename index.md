@@ -2,7 +2,7 @@
 
 # DUELink Ghizzy
 
-![Ghizzy](./img/spghizzy-d-1.png)
+![Ghizzy](./img/spghizzy-d-1.webp)
 
 This page is a `Getting Started` page for `DUELink Ghizzy`. The full product details are [here](https://www.duelink.com/docs/products/spghizzy-d) on the main DUELink website. Are you an educator? See how DUELink can help you [here](https://www.duelink.com/docs/educators).
 
@@ -10,9 +10,9 @@ This page is a `Getting Started` page for `DUELink Ghizzy`. The full product det
 Don't have a DUELink Ghizzy yet? Get yours today!<br>
 <a href="https://www.amazon.com/dp/B0FY74LL2H?maas=maas_adg_1C09DAD2F5B13C09514E189AC8835CA2_afap_abs&ref_=aa_maas&tag=maas" target="_blank"><img src="./img/amazon-btn.png" alt="Amazon button" width="200"></a>
 <br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D4073veneWI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
+
+---
 
 Ensure that Ghizzy is facing the proper direction when plugging into the USB port as show below.
 
