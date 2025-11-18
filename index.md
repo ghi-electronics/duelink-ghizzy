@@ -2,7 +2,7 @@
 
 # DUELink Ghizzy
 
-![Ghizzy](./img/spghizzy-d-1.webp)
+<p style="text-align: center"><img src="./img/spghizzy-d-1.webp"></p>
 
 This page is a `Getting Started` page for `DUELink Ghizzy`. The full product details are [here](https://www.duelink.com/docs/products/spghizzy-d) on the main DUELink website. Are you an educator? See how DUELink can help you [here](https://www.duelink.com/docs/educators).
 
