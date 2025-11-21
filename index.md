@@ -84,6 +84,18 @@ Learn more about DUELink's [MicroBlocks support](https://www.duelink.com/docs/la
 
 ---
 
+## Beyond MicroBlocks
+
+![languages](./img/languages.webp)
+
+DUELink boards with many [coding language](https://www.duelink.com/docs/language/intro) you are familiar with, such as [Python](https://www.duelink.com/docs/language/python) and [JavaScript](https://www.duelink.com/docs/language/javascript).
+
+![arduino](./img/arduino-logo.webp)
+
+Using [Arduino](https://www.duelink.com/docs/hw/arduino) is another great option. The Arduino IDE can be used to write programs that run right on any DUELink module. [Daisylink](https://www.duelink.com/docs/engine/daisylink) can also be used to control other devices through the[downlink](https://www.duelink.com/docs/interface/downlink) connector.
+
+---
+
 ## Connect with us!
 
 Ghizzy is possible because of our DUELink technology. But what is DUELink? Click [here](https://www.duelink.com/docs/what-is) to learn more.
@@ -117,3 +129,4 @@ Curious on how Ghizzy came about?
 Video | Description
 ---|---
 [![Designing Ghizzy](https://img.youtube.com/vi/D4073veneWI/hqdefault.jpg)](https://www.youtube.com/watch?v=D4073veneWI) | Ghizzy started as a swag item, was called John Due!
+
