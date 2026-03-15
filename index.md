@@ -28,7 +28,7 @@ To load a project: **Click** ➡ **Connect** ➡ **Run**!
 
 1. **Click** on one of the project links below to load it into MicroBlocks. We explain what MicroBlocks is later on this page.
 2. Click **Connect** on the top right corner. Then select the `USB` option. From the new window, select `DUELink`. 
-    a. While not likely,  your board may not have the latest firmware loaded. Go to [loader.duelink.com](https://loader.duelink.com/) to load the latest MicroBlocks firmware.
+    1. While not likely,  your board may not have the latest firmware loaded. Go to [loader.duelink.com](https://loader.duelink.com/) to load the latest MicroBlocks firmware.
 3. Click the **Run** triangle ▶ and enjoy! 🎉Congratulations, you are now a coder!
 
 <table>
